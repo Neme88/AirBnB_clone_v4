@@ -160,5 +160,4 @@ No known bugs at this time.
 - Colin OKUMU [Github](https://github.com/colinochieng)
 
 Second part of Airbnb: Joann Vuong
-## License
-Public Domain. No copy write protection. 
+## LicensePublic Domain. No copy write protection. 
