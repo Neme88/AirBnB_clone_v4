@@ -160,5 +160,4 @@ Chinemerem Chinedum Nwaka - [Github](https://github.com/Neme88) / [Twitter](http
 Colin OKUMU [Github](https://github.com/colinochieng)
 
 Second part of Airbnb: Joann Vuong
-## License
-Public Domain. No copy write protection. 
+## LicensePublic Domain. No copy write protection. 
